@@ -1,5 +1,8 @@
 # Transformer from scratch
 
+![eAKQu](https://github.com/Kirouane-Ayoub/transformer_from_scratch/assets/99510125/4d676a46-4f31-4cea-91e0-00825aa5730a)
+
+
 A transformer is a neural network architecture that relies on the parallel multi-head attention mechanism. It was first introduced in the paper "Attention Is All You Need" by Ashish Vaswani et al. in 2017.
 
 Transformers have become the dominant approach for natural language processing (NLP) tasks, such as machine translation, text summarization, and question answering. They have also been used for other tasks, such as image captioning and speech recognition.
